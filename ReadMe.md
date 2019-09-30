@@ -2,6 +2,8 @@
 
 　連用形にする。
 
+* [辞書作成スクリプト](https://github.com/ytyaru/Shell.MeCab.IpaDic.Charset.Convert.20190823193042)
+
 # 開発環境
 
 * <time datetime="2019-09-30T10:09:15+0900">2019-09-30</time>
